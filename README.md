@@ -7,8 +7,8 @@ YouTube Downloader is a Python application that allows users to download videos 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/youtube_downloader.git
-cd youtube_downloader
+git clone https://github.com/MadushaS/fuzzy-yt.git
+cd fuzzy-yt
 ```
 
 2. Install dependencies:
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 1. Run the application:
 
 ```bash
-python youtube_downloader/gui.py
+python3 main.py
 ```
 
 2. Enter a valid YouTube URL and click "Download" to initiate the download process.
